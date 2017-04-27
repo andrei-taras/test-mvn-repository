@@ -4,8 +4,6 @@
     "ignore": [
         ".bowerrc",
         ".gitignore",
-        "bower.json",
-        ".bower.json",
         ".nojekyll"
     ]
 }
